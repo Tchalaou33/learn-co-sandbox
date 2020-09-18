@@ -1,0 +1,39 @@
+ HOW TO BUILD A CLI GEM
+1. Plan your gem, Imagine your interface
+2. Start w/ project structure-google
+3. Start w/ entry point-the file run
+4. force that to build CLI Interface
+5. Stub out the Interface
+6. Start making things real
+7. Discover Objects
+8. Program
+
+-A Command Line Interface for massage therapist tracker in charlottesville Va
+
+auto run-"Welcome to TTuch, A Massage Therapist Tracker for Charlottesville VA"
+Please type 'Sessions' to begin"
+
+user types 'Sessions' to begin
+
+run
+
+show menu of Session types:
+1. Swedish
+2. Deep Tissue
+3. Cranial Sacral
+4. Reflexology
+5. Thai 
+6. Hot Stone
+auto run-"Which Session to you perfer?
+
+user type 1
+
+Get list of Therpist doing session
+
+What is a session
+
+Has a defult location
+A has a name
+A Therapist 
+A URL?
+A review
